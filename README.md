@@ -88,16 +88,17 @@ RetailSalesAnalyzer/
 ## 📈 Outputs
 
 ### ➡️ Data Outputs
-- [`outputs/data/total_revenue_by_country.csv`](outputs/Data/total_revenue_by_country.csv)
-- [`outputs/data/cleaned_dataset.csv`](outputs/Data/cleaned_dataset.csv)
+- [`outputs/data/total_revenue_by_country.csv`](outputs/Data/Total_Revenue_by_Country.csv)
+- [`outputs/Data/Top_Products_Revenue.csv`](outputs/Data/Top_Products_Revenue.csv)
+- [`outputs/Data/Sales_per_month.csv`](outputs/Data/Sales_per_month.csv)
 
 ### ➡️ Visual Outputs
 
 | Total Revenue by Country |
 |:-------------------------:|
-| ![Total Revenue by Country](outputs/plots/total_revenue_by_country.png) |
-| ![Total Products Sold](outputs/plots/Top_Products_Sold.png) |
-| ![Sales Per Month](outputs/plots/Sales_per_Month.png) |
+| ![Total Revenue by Country](outputs/plot/Total_Revenue_by_Country.png) |
+| ![Total Products Sold](outputs/plot/Top_Products_Sold.png) |
+| ![Sales Per Month](outputs/plot/Sales_per_Month.png) |
 
 ---
 
