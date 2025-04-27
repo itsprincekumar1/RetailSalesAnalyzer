@@ -88,8 +88,8 @@ RetailSalesAnalyzer/
 ## 📈 Outputs
 
 ### ➡️ Data Outputs
-- [`outputs/data/total_revenue_by_country.csv`](outputs/data/total_revenue_by_country.csv)
-- [`outputs/data/cleaned_dataset.csv`](outputs/data/cleaned_dataset.csv)
+- [`outputs/data/total_revenue_by_country.csv`](outputs/Data/total_revenue_by_country.csv)
+- [`outputs/data/cleaned_dataset.csv`](outputs/Data/cleaned_dataset.csv)
 
 ### ➡️ Visual Outputs
 
